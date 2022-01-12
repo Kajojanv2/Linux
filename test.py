@@ -1,4 +1,4 @@
-from main import funkcja1
+from src.main import funkcja1
 
 
-funkcja1
+funkcja1()
