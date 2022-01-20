@@ -10,3 +10,5 @@ Kajetan Jankowski
 
   trzeci paragraf
 <strike>przekreślenie</strike>
+
+``cytat``
