@@ -29,11 +29,9 @@ Kajetan Jankowski
 - czwarty nienumeryczny
 
 
-``#!/bin/bash
-
+```#!/bin/bash
 read liczba
-
-echo $liczba``
+echo $liczba```
 
 
 
