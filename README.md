@@ -34,6 +34,8 @@ read liczba
 echo $liczba
 ```
 
+w python ``print`` wyrzyci ci cos w konsoli
+
 
 
 
