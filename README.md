@@ -9,3 +9,4 @@ nastepny paragraf
 
 
 trzeci paragraf
+<strike>przekreślenie</strike>
