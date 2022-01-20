@@ -28,10 +28,11 @@ Kajetan Jankowski
     - trzeci.2
 - czwarty nienumeryczny
 
-
-```#!/bin/bash
-read liczba
-echo $liczba```
+```
+#!/bin/bash
+  read liczba
+    echo $liczba
+    ```
 
 
 
