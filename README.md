@@ -30,9 +30,9 @@ Kajetan Jankowski
 
 ```
 #!/bin/bash
-  read liczba
-    echo $liczba
-    ```
+read liczba
+echo $liczba
+```
 
 
 
