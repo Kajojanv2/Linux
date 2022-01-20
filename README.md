@@ -20,3 +20,20 @@ Kajetan Jankowski
     1. trzeci.1
     2. trzeci.2
 4.czwarty
+
+- pierwszy nienumeryczny
+- drugi nienumeryczny
+- Ttrzeci nienumeryczny
+    - trzeci.1
+    - trzeci.2
+- czwarty nienumeryczny
+
+
+``#!/bin/bash
+read liczba
+echo $liczba``
+
+
+
+
+
