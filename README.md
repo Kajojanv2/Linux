@@ -11,7 +11,7 @@ Kajetan Jankowski
   trzeci paragraf
 <strike>przekreślenie</strike>
 
-``cytat``
+>cytat
 
 
 1. pierwszy
