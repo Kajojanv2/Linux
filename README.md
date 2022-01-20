@@ -1,12 +1,12 @@
 # Linux
 Kajetan Jankowski
 # Nagłowek 1
-paragraf pierwszy
+  paragraf pierwszy
 **pobrubienie**
 
-nastepny paragraf
+  nastepny paragraf
 *kursywa*
 
 
-trzeci paragraf
+  trzeci paragraf
 <strike>przekreślenie</strike>
