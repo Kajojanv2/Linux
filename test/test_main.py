@@ -1,4 +1,5 @@
-from main import *
+import main
+
 
 def test_silnia():
-    assert silnia()==120
+    assert main.silnia()==120
