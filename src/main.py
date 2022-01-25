@@ -13,4 +13,4 @@ def silnia():
     while n > 0:
         silnia = silnia * n
         n = n - 1
-    print(silnia)
+    return (silnia)

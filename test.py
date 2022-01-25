@@ -1,4 +1,4 @@
-from src.main import funkcja1
+from src.main import *
 
 
-funkcja1()
+silnia()
