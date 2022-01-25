@@ -2,4 +2,4 @@ import main
 
 
 def test_silnia():
-    assert main.silnia()silnia()==120
+    assert main.silnia()==120
